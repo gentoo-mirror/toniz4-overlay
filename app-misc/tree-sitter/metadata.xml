@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM 'http://www.gentoo.org/dtd/metadata.dtd'>
+<pkgmetadata>
+	<maintainer type="person">
+		<email>cassioavila@yandex.com</email>
+		<name>Cásso Ribeiro Alves de Ávila</name>
+	</maintainer>
+	<longdescription>
+		Tree-sitter is a parser generator tool and an incremental parsing library. It can build a concrete syntax 
+		tree for a source file and efficiently update the syntax tree as the source file is edited. 
+	</longdescription>
+</pkgmetadata>
