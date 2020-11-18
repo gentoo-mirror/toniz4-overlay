@@ -5,7 +5,7 @@ EAPI=7
 
 DESCRIPTION="An incremental parsing system for programming tools"
 HOMEPAGE="https://tree-sitter.github.io/tree-sitter/"
-SRC_URI="https://github.com/tree-sitter/tree-sitter/archive/${PV}.tar.gz"
+SRC_URI="https://github.com/${PN}/${PN}/archive/${PV}.tar.gz"
 
 LICENSE="MIT"
 SLOT="0"
