@@ -1,4 +1,2 @@
-app-misc/tree-sitter 0.17.3: An incremental parsing system for programming tools
-app-office/calcurse 4.6.0: A text-based calendar and scheduling application
 sys-process/gotop 4.0.1: A terminal based graphical activity monitor inspired by gtop and vtop
 x11-misc/dwmblocks 0.1 0.2: Modular status bar for dwm written in c.
