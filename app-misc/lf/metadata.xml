@@ -2,8 +2,8 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-		<email>et-8@emiliatrollros.se</email>
-		<name>Emilia Trollros</name>
+		<email>cassioavila@yandex.com</email>
+		<name>Cássio Ribeiro Alves de Ávila</name>
 	</maintainer>
 	<upstream>
 		<bugs-to>https://github.com/gokcehan/lf/issues</bugs-to>
