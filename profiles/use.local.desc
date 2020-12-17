@@ -2,4 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+www-client/vimb:adblock - use www-plugins/wyebadblock for adblocking
+www-client/vimb:gstreamer - Add support for media-libs/gstreamer (Streaming media)
 x11-misc/dwmblocks:statuscmd - apply statuscmd patch (need dwm statuscmd-signal patch to work)

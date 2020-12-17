@@ -1,3 +1,5 @@
 app-misc/lf 16 17: a terminal file manager written in Go
 sys-process/gotop 4.0.1: A terminal based graphical activity monitor inspired by gtop and vtop
+www-client/vimb 3.6.0 9999: a fast, lightweight, vim-like browser based on webkit
+www-plugins/wyebadblock 9999: An adblock extension for wyeb, also webkit2gtk browsers.
 x11-misc/dwmblocks 0.1 0.2: Modular status bar for dwm written in c.
