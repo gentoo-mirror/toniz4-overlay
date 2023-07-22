@@ -10,5 +10,5 @@ LICENSE=MIT
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/gokcehan/lf/archive/r16.tar.gz -> lf-16.tar.gz mirror://goproxy//github.com/doronbehar/termbox-go/@v/v0.0.0-20200711071547-71407e3bfa14.zip -> github.com%2Fdoronbehar%2Ftermbox-go%2F@v%2Fv0.0.0-20200711071547-71407e3bfa14.zip mirror://goproxy//github.com/doronbehar/termbox-go/@v/v0.0.0-20200711071547-71407e3bfa14.mod -> github.com%2Fdoronbehar%2Ftermbox-go%2F@v%2Fv0.0.0-20200711071547-71407e3bfa14.mod mirror://goproxy//github.com/mattn/go-runewidth/@v/v0.0.9.zip -> github.com%2Fmattn%2Fgo-runewidth%2F@v%2Fv0.0.9.zip mirror://goproxy//github.com/mattn/go-runewidth/@v/v0.0.9.mod -> github.com%2Fmattn%2Fgo-runewidth%2F@v%2Fv0.0.9.mod mirror://goproxy//gopkg.in/djherbis/times.v1/@v/v1.2.0.zip -> gopkg.in%2Fdjherbis%2Ftimes.v1%2F@v%2Fv1.2.0.zip mirror://goproxy//gopkg.in/djherbis/times.v1/@v/v1.2.0.mod -> gopkg.in%2Fdjherbis%2Ftimes.v1%2F@v%2Fv1.2.0.mod
-_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	fc2af1957597c539ae6e48f82bd43125	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-module	8624eede24936fd7666e5298e5332f22
+_eclasses_=multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	8e3fb781f3258ae2757d1dfc2c7c170e	multilib	c19072c3cd7ac5cb21de013f7e9832e0	go-module	8624eede24936fd7666e5298e5332f22
 _md5_=bcd6de1b3b04f0ec35ee7463d4d5efd8
